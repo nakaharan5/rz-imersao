@@ -13,10 +13,10 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
-      colors: {
-        pretro: "#000",
-        white: "#fff"
-      }
+      colors:{
+        "laranja": "#fc5600",
+        "laranja-hover": "#E77828"
+      },
     },
   },
   plugins: [],
